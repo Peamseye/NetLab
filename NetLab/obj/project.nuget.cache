@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BXM4cOFDiu6YlEgdP5CKZjA4gfA0tOwlb0jxlponBt/vn6XkLS1hDf5UEtmSDGXzfaL4ZjoBw1dLQk9jVmABeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aslund.alexander\\null\\NetLab\\NetLab\\NetLab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aslund.alexander\\.nuget\\packages\\restsharp\\108.0.2\\restsharp.108.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\aslund.alexander\null\NetLab\NetLab\bin\Debug\net6.0\NetLab.exe
+C:\Users\aslund.alexander\null\NetLab\NetLab\bin\Debug\net6.0\NetLab.deps.json
+C:\Users\aslund.alexander\null\NetLab\NetLab\bin\Debug\net6.0\NetLab.runtimeconfig.json
+C:\Users\aslund.alexander\null\NetLab\NetLab\bin\Debug\net6.0\NetLab.dll
+C:\Users\aslund.alexander\null\NetLab\NetLab\bin\Debug\net6.0\NetLab.pdb
+C:\Users\aslund.alexander\null\NetLab\NetLab\bin\Debug\net6.0\RestSharp.dll
+C:\Users\aslund.alexander\null\NetLab\NetLab\obj\Debug\net6.0\NetLab.csproj.AssemblyReference.cache
+C:\Users\aslund.alexander\null\NetLab\NetLab\obj\Debug\net6.0\NetLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aslund.alexander\null\NetLab\NetLab\obj\Debug\net6.0\NetLab.AssemblyInfoInputs.cache
+C:\Users\aslund.alexander\null\NetLab\NetLab\obj\Debug\net6.0\NetLab.AssemblyInfo.cs
+C:\Users\aslund.alexander\null\NetLab\NetLab\obj\Debug\net6.0\NetLab.csproj.CoreCompileInputs.cache
+C:\Users\aslund.alexander\null\NetLab\NetLab\obj\Debug\net6.0\NetLab.csproj.CopyComplete
+C:\Users\aslund.alexander\null\NetLab\NetLab\obj\Debug\net6.0\NetLab.dll
+C:\Users\aslund.alexander\null\NetLab\NetLab\obj\Debug\net6.0\refint\NetLab.dll
+C:\Users\aslund.alexander\null\NetLab\NetLab\obj\Debug\net6.0\NetLab.pdb
+C:\Users\aslund.alexander\null\NetLab\NetLab\obj\Debug\net6.0\NetLab.genruntimeconfig.cache
+C:\Users\aslund.alexander\null\NetLab\NetLab\obj\Debug\net6.0\ref\NetLab.dll
